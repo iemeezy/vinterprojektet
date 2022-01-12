@@ -14,3 +14,9 @@ C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojekt
 C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\ref\vinterprojektet.dll
 C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.pdb
 C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.genruntimeconfig.cache
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.csproj.CopyComplete
