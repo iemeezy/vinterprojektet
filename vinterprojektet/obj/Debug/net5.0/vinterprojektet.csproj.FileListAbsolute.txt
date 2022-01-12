@@ -1,0 +1,16 @@
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.exe
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.deps.json
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.runtimeconfig.json
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.runtimeconfig.dev.json
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\ref\vinterprojektet.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\bin\Debug\net5.0\vinterprojektet.pdb
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.csproj.AssemblyReference.cache
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.AssemblyInfoInputs.cache
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.AssemblyInfo.cs
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.csproj.CoreCompileInputs.cache
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\ref\vinterprojektet.dll
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.pdb
+C:\Users\frisell.emelina\Documents\programmering 1\vinterprojektet\vinterprojektet\obj\Debug\net5.0\vinterprojektet.genruntimeconfig.cache
